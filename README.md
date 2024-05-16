@@ -1,7 +1,7 @@
 Hi 👋 My name is Arthur
 ===================================================
 
-Forestry Engineer and Developer
+Forestry Engineer and Software Developer
 -------------------------------
 
 I'm Arthur, a Forestry Engineer and Systems Analyst with a background in forest management and a passion for programming.
