@@ -21,6 +21,8 @@ I'm Arthur, a Forestry Engineer and Systems Analyst with a background in forest 
 
 <p align="left"> <a href="https://www.github.com/Schavess" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/arthur-guilherme-s-0608ba63/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+<a href="https://app.rocketseat.com.br/me/arthur-1567050944"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=arthur-1567050944&type=card" width="280" alt="Arthur Guilherme Schirmbeck Chaves's Rocket ID"/></a>
+
 ### Badges
 
 <a href="https://github.com/Schavess" align="left">
