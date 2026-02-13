@@ -23,12 +23,8 @@ I'm Arthur, a Forestry Engineer and Systems Analyst with a background in forest 
 
 ### Badges
 
-<!-- Top language deste repositório (Shields.io - estável) -->
-<a href="https://github.com/Schavess/Schavess">
-  <img src="https://img.shields.io/github/languages/top/Schavess/Schavess?color=0891b2&logo=github&style=flat-square" alt="Top Language" />
-</a>
-<!-- Quantidade de linguagens neste repositório -->
-<a href="https://github.com/Schavess/Schavess">
-  <img src="https://img.shields.io/github/languages/count/Schavess/Schavess?color=0891b2&style=flat-square" alt="Languages" />
+<!-- Top Languages: linguagens dos seus repositórios públicos (não deste repo, que só tem README) -->
+<a href="https://github.com/Schavess">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Schavess&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=0891b2&text_color=fff&custom_title=Top%20Languages" alt="Top Languages" width="400" />
 </a>
 
