@@ -23,5 +23,5 @@ I'm Arthur, a Forestry Engineer and Systems Analyst with a background in forest 
 
 ### Badges
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Schavess&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=0891b2&text_color=fff)](https://github.com/Schavess)
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Schavess&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=0891b2&text_color=fff)](https://github.com/Schavess)
 
