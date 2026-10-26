@@ -6,7 +6,7 @@ I'm a Forestry Engineer and Systems Analyst working at the intersection of softw
 
 - 🌍 Based in Cuiabá, Mato Grosso, Brazil.
 - 🌱 Interested in applied AI, geospatial analytics, and data-driven solutions.
-- ✉️ Contact: [eng.arthurschaves@gmail.com](mailto:eng.arthurschaves@gmail.com)
+- ✉️ Contact: [arthur.chaves@ifmt.edu.br](mailto:arthur.chaves@ifmt.edu.br)
 
 ## Skills
 
